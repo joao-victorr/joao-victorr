@@ -1,4 +1,4 @@
-# Bio <img align="right" src="https://images.app.goo.gl/So7akNn5iEe2P37LA> 
+# Bio <img align="right" src="https://images.app.goo.gl/So7akNn5iEe2P37LA/> 
 
 <div>
 <strong>João Victor</strong>
