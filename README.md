@@ -1,9 +1,11 @@
-# Bio <img align="right" src="https://images.app.goo.gl/So7akNn5iEe2P37LA"/> 
+# Bio 
 
 <div>
 <strong>João Victor</strong>
 <p><strong>18 years old</strong></p>
 </div>
+
+<img align="right" src="https://i.pinimg.com/originals/cc/ec/36/ccec3648d3fc6abe9c00b04c3fb4c661.jpg"/> 
 
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/joaovictor4?style=social)
