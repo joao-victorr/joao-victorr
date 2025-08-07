@@ -5,8 +5,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Desenvolvendo+backends+escal%C3%A1veis+e+robustos;Especialista+em+Node.js+%2B+TypeScript;Sempre+buscando+excel%C3%AAncia+t%C3%A9cnica" alt="Typing SVG" />
 
-[![Available for freelance](https://img.shields.io/badge/Available_for-Freelance%20%7C%20Open%20Source-00D4AA?style=for-the-badge&logo=handshake&logoColor=white)](mailto:joaovictor@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaovictor)
+[![Available for freelance](https://img.shields.io/badge/Available_for-Freelance%20%7C%20Open%20Source-00D4AA?style=for-the-badge&logo=handshake&logoColor=white)](mailto:joaovictorr.info@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-victorr)
 
 </div>
 
@@ -73,11 +73,7 @@ const joaoVictor = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictor&repo=scalable-api-template&theme=tokyonight&hide_border=true)](https://github.com/joaovictor/scalable-api-template)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictor&repo=microservices-architecture&theme=tokyonight&hide_border=true)](https://github.com/joaovictor/microservices-architecture)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictor&repo=prisma-multi-tenant&theme=tokyonight&hide_border=true)](https://github.com/joaovictor/prisma-multi-tenant)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictor&repo=fastify-clean-api&theme=tokyonight&hide_border=true)](https://github.com/joaovictor/fastify-clean-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joao-victorr&repo=intranet-backend&theme=tokyonight&hide_border=true)](https://github.com/joao-victorr/intranetBackend)
 
 </div>
 
@@ -86,12 +82,12 @@ const joaoVictor = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictor&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-victorr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-victorr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovictor&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joao-victorr&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -117,9 +113,9 @@ graph LR
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-João_Victor-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaovictor)
-[![Email](https://img.shields.io/badge/Email-joaovictor@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovictor@email.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511999999999)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-João_Victor-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-victorr)
+[![Email](https://img.shields.io/badge/Email-joaovictor@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovictorr.info@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562996269258)
 
 </div>
 
