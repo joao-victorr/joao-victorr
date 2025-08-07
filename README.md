@@ -3,7 +3,7 @@
 # 👋 Olá, eu sou João Victor
 ### Backend Developer | Node.js & TypeScript Specialist
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Desenvolvendo+backends+escal%C3%A1veis+e+robustos;Apaixonado+por+Clean+Architecture;Especialista+em+Node.js+%2B+TypeScript;Sempre+buscando+excel%C3%AAncia+t%C3%A9cnica" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Desenvolvendo+backends+escal%C3%A1veis+e+robustos;Especialista+em+Node.js+%2B+TypeScript;Sempre+buscando+excel%C3%AAncia+t%C3%A9cnica" alt="Typing SVG" />
 
 [![Available for freelance](https://img.shields.io/badge/Available_for-Freelance%20%7C%20Open%20Source-00D4AA?style=for-the-badge&logo=handshake&logoColor=white)](mailto:joaovictor@email.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaovictor)
