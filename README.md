@@ -87,7 +87,7 @@ const joaoVictor = {
 * 👥 Participando de comunidades e aprimorando soft skills
 
 ---
-
+<!--
 ## 🚀 Projeto em Destaque
 
 <div align="center">
@@ -96,7 +96,7 @@ const joaoVictor = {
 
 </div>
 
----
+--- -->
 
 ## 📊 GitHub Stats
 
